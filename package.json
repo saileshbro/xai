@@ -27,7 +27,7 @@
     "@twind/preset-tailwind": "^1.1.4",
     "@rollup/plugin-typescript": "^11.1.5",
     "@testing-library/react": "14.1.2",
-    "@types/chrome": "0.0.249",
+    "@types/chrome": "0.0.254",
     "@types/jest": "29.5.10",
     "@types/node": "20.10.3",
     "@types/react": "18.2.41",
